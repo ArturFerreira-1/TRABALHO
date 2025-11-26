@@ -1,0 +1,17 @@
+
+body { 
+    font-size: 0.3in;
+    text-align: center;
+    background: linear-gradient( 90deg, rgb(17, 139, 35), rgb(3, 31, 5));
+    color: rgb(240, 248, 241);
+    
+}
+
+h2 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h3 {
+    color: black;
+}
+
+
